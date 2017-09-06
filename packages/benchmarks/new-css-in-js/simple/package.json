@@ -1,0 +1,23 @@
+{
+  "name": "table-css-in-js-simple-big-table",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "devServer --package new-css-in-js/simple",
+    "build": "devBuild --package new-css-in-js/simple"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "benchmarks-utils": "1.0.0",
+    "new-css-in-js": "0.0.1-4",
+    "react-new-css-in-js": "0.0.1-4"    
+  },
+  "devDependencies": {
+    "dev-tasks": "1.0.0"
+  },
+  "benchmarks": {
+    "name": "new-css-in-js-simple",
+    "useCSS": true,
+    "link": "https://github.com/mitchellhamilton/new-css-in-js"
+  }
+}

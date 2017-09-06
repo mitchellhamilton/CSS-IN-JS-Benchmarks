@@ -18,6 +18,8 @@
     "packages/benchmarks/emotion/simple",
     "packages/benchmarks/emotion/extract-static",
     "packages/benchmarks/emotion/css-mode",
+    "packages/benchmarks/new-css-in-js/simple",
+    "packages/benchmarks/new-css-in-js/css-mode",
     "packages/benchmarks/glam/inline-style",
     "packages/benchmarks/glam/simple",
     "packages/benchmarks/glamorous/dynamic-styles",
