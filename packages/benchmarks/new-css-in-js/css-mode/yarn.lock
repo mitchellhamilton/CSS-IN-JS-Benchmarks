@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-new-css-in-js@0.0.1-9:
-  version "0.0.1-9"
-  resolved "https://registry.yarnpkg.com/new-css-in-js/-/new-css-in-js-0.0.1-9.tgz#9fd679452eb4dca4029eafb27ec123cdf9d01809"
+new-css-in-js@0.0.1-12:
+  version "0.0.1-12"
+  resolved "https://registry.yarnpkg.com/new-css-in-js/-/new-css-in-js-0.0.1-12.tgz#a29eb32a9b29dbc8745e53035da4aedd103dca32"
   dependencies:
     stylis "^3.2.11"
 

@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "benchmarks-utils": "1.0.0",
-    "new-css-in-js": "0.0.1-9"    
+    "new-css-in-js": "0.0.1-12"    
   },
   "devDependencies": {
     "dev-tasks": "1.0.0"
